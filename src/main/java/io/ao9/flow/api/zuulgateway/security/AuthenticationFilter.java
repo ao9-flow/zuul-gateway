@@ -1,4 +1,4 @@
-package io.ao9.flow.api.zuulapigateway.security;
+package io.ao9.flow.api.zuulgateway.security;
 
 import java.io.IOException;
 import java.util.ArrayList;

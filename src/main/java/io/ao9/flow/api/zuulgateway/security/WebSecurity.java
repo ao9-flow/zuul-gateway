@@ -1,4 +1,4 @@
-package io.ao9.flow.api.zuulapigateway.security;
+package io.ao9.flow.api.zuulgateway.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

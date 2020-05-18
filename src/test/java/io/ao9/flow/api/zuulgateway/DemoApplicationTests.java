@@ -1,4 +1,4 @@
-package io.ao9.flow.api.zuulapigateway;
+package io.ao9.flow.api.zuulgateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

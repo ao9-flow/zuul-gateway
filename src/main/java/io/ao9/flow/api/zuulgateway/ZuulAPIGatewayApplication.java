@@ -1,4 +1,4 @@
-package io.ao9.flow.api.zuulapigateway;
+package io.ao9.flow.api.zuulgateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

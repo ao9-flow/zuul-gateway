@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.ao9.flow.api</groupId>
-	<artifactId>flow-zuul-api-gateway</artifactId>
+	<artifactId>flow-zuul-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>flow-zuul-api-gateway</name>
+	<name>flow-zuul-gateway</name>
 	<description>Zuul API Gateway for Flow App</description>
 
 	<properties>
